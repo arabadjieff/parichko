@@ -12,7 +12,7 @@ Parichko is a simple Java application designed to help users track their persona
 
 ## Technologies Used
 
-- Java (JDK 8 or later)
+- Java
 - Swing (for the graphical user interface)
 - ArrayList (for managing transaction data)
 - File I/O (CSV format)
@@ -22,9 +22,7 @@ Parichko is a simple Java application designed to help users track their persona
 
 1. Clone the repository: https://github.com/arabadjieff/parichko
 2. Open the project in your preferred Java IDE (e.g., IntelliJ, Eclipse, NetBeans).
-
 3. Compile and run the `Parichko.java` file.
-
 4. Use the form to add new transactions. Data will be saved in `transactions.csv` in the same directory.
 
 ## Project Structure
