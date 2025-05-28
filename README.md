@@ -42,10 +42,6 @@ Date,Type,Amount,Category
 2025-05-27,Income,1000,Salary
 2025-05-27,Expense,50,Food
 
-markdown
-Copy
-Edit
-
 ## Limitations and Notes
 
 - Currently supports only adding transactions (editing and deleting can be added in future versions).
