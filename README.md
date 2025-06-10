@@ -64,7 +64,7 @@ Date,Type,Amount,Category
 - CSV file is created in the same directory as the application
 - Date format must be yyyy-MM-dd
 - Custom chart is rendered manually using Java 2D graphics
-- All data is stored locally (no cloud synchronization)
+- All data is stored locally
 
 ## Author
 Alexander Arabadjiev – Grade 11 M2 Informatics Final Project
